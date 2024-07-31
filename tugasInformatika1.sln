@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tugasInformatika1", "tugasInformatika1\tugasInformatika1.vcxproj", "{AC80C885-0048-470F-9F0E-93D17A4A4328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Debug|x64.ActiveCfg = Debug|x64
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Debug|x64.Build.0 = Debug|x64
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Debug|x86.Build.0 = Debug|Win32
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Release|x64.ActiveCfg = Release|x64
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Release|x64.Build.0 = Release|x64
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Release|x86.ActiveCfg = Release|Win32
+		{AC80C885-0048-470F-9F0E-93D17A4A4328}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7907F29-E0F1-4CDD-AD3C-3BDB7AFF88C5}
+	EndGlobalSection
+EndGlobal
